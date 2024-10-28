@@ -18,7 +18,7 @@ Mechatronics Lead in UTSA's University Rover Challenge team, where I lead a team
 Mechanical Engineer on UTSA's RoboCup team, working to develop a humanoid robot soccer player. I focus on designing and testing the leg and camera systems while programming simulations with MuJoCo.
 
 🌐 Connect with Me
-LinkedIn | Email
+LinkedIn https://www.linkedin.com/in/alejandromperez714/| Email Alejadromperez714@gmail.com
 
 🎉 Fun Fact
 I'm working on robot blimps with ballasts for altitude control
